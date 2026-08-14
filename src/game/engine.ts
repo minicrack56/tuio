@@ -1,4 +1,3 @@
---- src/game/engine.ts (原始)
 import { sfx } from './audio';
 import { genProblem, AMMO_REWARD } from './math';
 import type { Difficulty, Problem } from './math';
