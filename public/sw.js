@@ -1,7 +1,4 @@
---- public/sw.js (原始)
 
-
-+++ public/sw.js (修改后)
 /* Dead Reckoning — offline service worker (stale-while-revalidate, same-origin). */
 const CACHE = 'dead-reckoning-v1';
 
