@@ -1,7 +1,3 @@
---- public/manifest.webmanifest (原始)
-
-
-+++ public/manifest.webmanifest (修改后)
 {
   "name": "Dead Reckoning — Zombie Math Shooter",
   "short_name": "Dead Reckoning",
