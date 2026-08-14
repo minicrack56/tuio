@@ -1,7 +1,4 @@
---- capacitor.config.ts (原始)
 
-
-+++ capacitor.config.ts (修改后)
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
