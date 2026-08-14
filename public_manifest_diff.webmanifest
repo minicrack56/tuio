@@ -1,0 +1,24 @@
+--- public/manifest.webmanifest (原始)
+
+
++++ public/manifest.webmanifest (修改后)
+{
+  "name": "Dead Reckoning — Zombie Math Shooter",
+  "short_name": "Dead Reckoning",
+  "description": "Hold the palisade against the horde. Every shot spends a round — solve the supply problem to reload. Wrong answers cost you the difference.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#060d08",
+  "theme_color": "#060d08",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "https://image.qwenlm.ai/generated-images/54e77056-7061-4f2a-8679-13001d486718/_result.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

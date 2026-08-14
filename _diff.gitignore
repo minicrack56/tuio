@@ -1,0 +1,33 @@
+--- .gitignore (原始)
+node_modules/
+.next/
+dist/
+build/
+*.log
+
+
++++ .gitignore (修改后)
+# dependencies
+node_modules/
+
+# build output
+dist/
+dist-ssr/
+
+# capacitor native project (regenerate with `npx cap add android`)
+android/
+ios/
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# env & editor
+.env
+.env.*
+*.local
+.DS_Store
+.idea/
+.vscode/
+*.swp
