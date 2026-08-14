@@ -1,4 +1,3 @@
---- src/App.tsx (原始)
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { Game, TIP_POOL, type HintMsg } from './game/engine';
 import type { HudSnapshot, GameStats } from './game/engine';
